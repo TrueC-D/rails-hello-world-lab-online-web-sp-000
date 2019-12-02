@@ -1,5 +1,5 @@
 module HwHelper
-  def user_email(user)
+  def hello(user)
     user.email if user && user.email.present?
   end
 end
