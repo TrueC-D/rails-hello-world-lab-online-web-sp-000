@@ -1,3 +1,3 @@
 class HelloWorldController < ApplicationController
-  def 
+  def hello_worl
 end
