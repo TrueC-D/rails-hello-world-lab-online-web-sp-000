@@ -1,3 +1,0 @@
-class HwController < ApplicationController
-  
-end
